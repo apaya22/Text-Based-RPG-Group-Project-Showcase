@@ -34,7 +34,7 @@ The output will display "_characterName_ walks down the right path". User action
 ## User Interface Specification
 
 ### Navigation Diagram(Parsa/Justin)
-![Screenshot 2024-05-06 193338](https://github.com/cs100/final-project-ptehr002-jshiu004-apaya014-zwang577/assets/165938580/391ee0ef-a186-4ee5-8b6c-ee9d6434f794)
+![Screenshot 2024-05-06 193338]([https://github.com/cs100/final-project-ptehr002-jshiu004-apaya014-zwang577/assets/165938580/391ee0ef-a186-4ee5-8b6c-ee9d6434f794](https://private-user-images.githubusercontent.com/165938580/328384085-391ee0ef-a186-4ee5-8b6c-ee9d6434f794.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Njc2NTc2MTIsIm5iZiI6MTc2NzY1NzMxMiwicGF0aCI6Ii8xNjU5Mzg1ODAvMzI4Mzg0MDg1LTM5MWVlMGVmLWExODYtNGVlNS04YjZjLWVlOWQ2NDM0Zjc5NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTA1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDEwNVQyMzU1MTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01Mzg4NDFlZGU4Mzc3NGViODRkNmE2ZDM4NTQyMGE3NmVlOGI4MjYyOGFlNzFiZmJiOTY2MTRiYmZmYmZmOGRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.6eUS-ALYkv62UbduR61sXavvMWTtc-yAPknngRJwWpM))
 
 This Navigation Diagram represents the path users can take in this project. Each choice leads to the next step in the program. The user chooses a character and then the story starts. Once the story starts, there will be actions that the user can choose from to progress in the story. Eventually, the story will come to an end and the program will finish.
 
