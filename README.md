@@ -82,6 +82,7 @@ The enemy will respond with an action of their own
 This is shown when the story ends and you have won
 
 **Losing Screen**
+
 <img width="303" height="102" alt="img8" src="https://github.com/user-attachments/assets/12f77aec-ff13-499a-ad6e-cfc4521411d8" />
 
 
@@ -96,7 +97,9 @@ This is shown when the you die in battle and you lose the game
 
 
 ## Class Diagram(Andy/Z)
-<img width="1073" alt="Screenshot 2024-05-21 at 5 03 35 PM" src="https://github.com/cs100/final-project-ptehr002-jshiu004-apaya014-zwang577/assets/165939569/342df133-7f2d-479e-bbab-f05b23b6e87b">
+
+<img width="1073" height="536" alt="img9" src="https://github.com/user-attachments/assets/99a1a303-e275-4859-9ba8-5519b5503c6c" />
+
 
 >
 **Drivers** We have implemented different Driver classes for our design and game.
@@ -109,7 +112,8 @@ This is shown when the you die in battle and you lose the game
 >
 **Spire_Driver** The Spire_Driver class will drive the majority of our game. The spire is where the player will enter after the story is introduced. The spire will be X amount of floors the player will have to climb through. Each floor will have different encounters such as a resting room, merchant, encounter,,,etc. The floor selection will depend on the user input. After each floor, the user should be prompted left, right, or middle. This driver will handle which path the user chose and then output or start the following room encounter. 
 >
-><img width="1336" alt="Screenshot 2024-05-21 at 5 31 57 PM" src="https://github.com/cs100/final-project-ptehr002-jshiu004-apaya014-zwang577/assets/165939569/daf901f6-b5a1-4c38-bc99-8ba11e490ea9">
+><img width="1336" height="508" alt="img10" src="https://github.com/user-attachments/assets/163559a8-450f-432a-8d6f-60d1042e67f0" />
+
 
 **Character(class)** This is the super class, character. This is the class that the subclasses user character and enemy characters will inherit from. This class contains definitions for functions and variables that each inherited character must have, such as the private variables of name, current and max health, strength, wisdom, defense, and speed. Along with this all classes that inherit from character must have append and get functions for these values. 
 >
