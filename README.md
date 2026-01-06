@@ -42,43 +42,48 @@ This Navigation Diagram represents the path users can take in this project. Each
 ### Screen Layouts(Parsa/Justin)
 **Welcome Screen**
 
-<img width="325" alt="Screenshot 2024-05-06 at 9 06 51 PM" src="https://github.com/cs100/final-project-ptehr002-jshiu004-apaya014-zwang577/assets/165940170/0631a4ae-319b-449c-9b46-c8b49267932b">
+<img width="325" height="150" alt="img2" src="https://github.com/user-attachments/assets/7fb20f50-f681-4197-80bd-3a0a63fed6d1" />
 
 This is the welcome screen where user is prompted to select a character for the game. They will pick the character and that will be their role for the rest of the game
 
 **Storyline text**
 
-<img width="210" alt="Screenshot 2024-05-06 at 9 14 14 PM" src="https://github.com/cs100/final-project-ptehr002-jshiu004-apaya014-zwang577/assets/165940170/fc59ca61-7a95-45bd-8d0c-0bf9fce4ec31">
+<img width="210" height="143" alt="img3" src="https://github.com/user-attachments/assets/499689f2-4d3a-4b60-bfa3-008ba8e04b13" />
+
 
 This is the storyline screen which will output text regarding the storyline
 
 **User action selection**
 
-<img width="331" alt="Screenshot 2024-05-06 at 9 16 51 PM" src="https://github.com/cs100/final-project-ptehr002-jshiu004-apaya014-zwang577/assets/165940170/2c8419b1-af2a-4e22-9f56-0a8d8fc04643">
+<img width="331" height="136" alt="img4" src="https://github.com/user-attachments/assets/42fc644b-4122-477d-9ca4-70d3b233bc88" />
+
 
 This is where the player will select an action
 
 **Possible actions**
 
-<img width="615" alt="Screenshot 2024-05-06 at 9 19 31 PM" src="https://github.com/cs100/final-project-ptehr002-jshiu004-apaya014-zwang577/assets/165940170/a0e6c7a9-882c-4bd0-819b-493618f599d8">
+<img width="615" height="483" alt="img5" src="https://github.com/user-attachments/assets/a329afc5-767c-4fa1-a2cb-bbde4cf11b3b" />
+
 
 Here are the different actions the user can select
 
 **Enemy Response**
 
-<img width="493" alt="Screenshot 2024-05-06 at 9 21 01 PM" src="https://github.com/cs100/final-project-ptehr002-jshiu004-apaya014-zwang577/assets/165940170/e11f641c-1488-4d25-a9c2-772d2b6d6582">
+<img width="493" height="123" alt="img6" src="https://github.com/user-attachments/assets/694eb56a-65d4-49c4-b471-b19b77ccc7d0" />
+
 
 The enemy will respond with an action of their own
 
 **Winning Screen**
 
-<img width="346" alt="Screenshot 2024-05-06 at 9 23 12 PM" src="https://github.com/cs100/final-project-ptehr002-jshiu004-apaya014-zwang577/assets/165940170/0bb09b7d-d60f-4beb-86d8-ada715834452">
+<img width="346" height="106" alt="img7" src="https://github.com/user-attachments/assets/17051f19-93fc-4ce8-afb5-e8aed90c97e3" />
+
 
 This is shown when the story ends and you have won
 
 **Losing Screen**
+<img width="303" height="102" alt="img8" src="https://github.com/user-attachments/assets/12f77aec-ff13-499a-ad6e-cfc4521411d8" />
 
-<img width="303" alt="Screenshot 2024-05-06 at 9 24 20 PM" src="https://github.com/cs100/final-project-ptehr002-jshiu004-apaya014-zwang577/assets/165940170/6ecd2a7b-ce0d-403f-a1e9-2a3cdb51161c">
 
 This is shown when the you die in battle and you lose the game
 
