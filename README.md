@@ -149,19 +149,21 @@ This is shown when the you die in battle and you lose the game
  
  ## Screenshots
  > Screenshots of the input/output after running the game:
->!<img width="1928" height="262" alt="img13" src="https://github.com/user-attachments/assets/72335ab0-2a5e-438e-b950-fb005fa71725" />
+>
+<img width="1928" height="262" alt="img13" src="https://github.com/user-attachments/assets/72335ab0-2a5e-438e-b950-fb005fa71725" />
 
-> 
-> ![image](https://github.com/cs100/final-project-ptehr002-jshiu004-apaya014-zwang577/assets/165939569/1c6dfb41-c1e4-47a8-a4a7-b3e7cbb9b9e8)> 
-> ![image](https://github.com/cs100/final-project-ptehr002-jshiu004-apaya014-zwang577/assets/165939569/38babbff-88c0-4e5c-8a87-1ef9d7333c43)
-> 
-> ![image](https://github.com/cs100/final-project-ptehr002-jshiu004-apaya014-zwang577/assets/165939569/d4b66cb5-b890-45c3-b2d9-3255f2f21190)> 
-> ![image](https://github.com/cs100/final-project-ptehr002-jshiu004-apaya014-zwang577/assets/165939569/47b5fb1d-c01c-4ae4-897a-1e8bff954c5d)
-> 
-> ![image](https://github.com/cs100/final-project-ptehr002-jshiu004-apaya014-zwang577/assets/165939569/e6cb889c-0775-4dc3-ac12-2fe1b02687b9)
-> 
-> ![image](https://github.com/cs100/final-project-ptehr002-jshiu004-apaya014-zwang577/assets/165939569/51e220ae-c6fd-43f1-aa29-0408de193a78)
-> 
+<img width="734" height="468" alt="img14" src="https://github.com/user-attachments/assets/81cb52b4-296a-4115-839a-269306963d72" />
+
+<img width="734" height="468" alt="img15" src="https://github.com/user-attachments/assets/71236c8f-d0b2-431c-9aa0-892792577777" />
+
+<img width="724" height="248" alt="img16" src="https://github.com/user-attachments/assets/ef15b8bb-31c3-4b6f-acd0-3058aa4006ea" />
+
+<img width="896" height="362" alt="img17" src="https://github.com/user-attachments/assets/31d8ed6b-b20f-4847-a7ed-62902d93fac6" />
+
+<img width="2112" height="378" alt="img18" src="https://github.com/user-attachments/assets/352d28a7-2aff-46f7-ad8f-f88e00e97315" />
+
+
+
 
 
 
