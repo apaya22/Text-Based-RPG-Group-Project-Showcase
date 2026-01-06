@@ -117,11 +117,14 @@ This is shown when the you die in battle and you lose the game
 
 **Character(class)** This is the super class, character. This is the class that the subclasses user character and enemy characters will inherit from. This class contains definitions for functions and variables that each inherited character must have, such as the private variables of name, current and max health, strength, wisdom, defense, and speed. Along with this all classes that inherit from character must have append and get functions for these values. 
 >
-><img width="751" alt="Screenshot 2024-05-21 at 5 40 57 PM" src="https://github.com/cs100/final-project-ptehr002-jshiu004-apaya014-zwang577/assets/165939569/fc90ea24-f6e3-4d52-8f52-c9207a2dca56">
+><img width="751" height="557" alt="img11" src="https://github.com/user-attachments/assets/6cd934f0-2787-4cb5-b6e5-7994ff4ba548" />
+
+
 
 **User_Character(class)** This is a class that inherits character class. This class contains functions and values that are inherited from character, such as the append and get functions. Every user_character will have an array of size 8 holding strings of item names along with current gold xp, and level. Each user character will also have its own constructor, append and get functions for current xp, gold, and items, and a level-up function. The composite subclasses from User_character are the types of characters the user can choose from, ranging from knight, archer, rouge, and mage. Each User_character subclass has it's own unique constructer and 6 unique functions that will act as their abilities during combat. 
 >
-><img width="826" alt="Screenshot 2024-05-21 at 5 48 14 PM" src="https://github.com/cs100/final-project-ptehr002-jshiu004-apaya014-zwang577/assets/165939569/747ed5d7-a10f-479c-94c7-465c74947013">
+><img width="826" height="454" alt="img12" src="https://github.com/user-attachments/assets/2fa0cf92-c5af-401d-83b9-ede765b8e94f" />
+
 
 **Enemy_Character(class)** This is a class that inherits character class This class contains functions and values that are inherited from character. Every enemy character will have a value for dropped gold and XP. Each enemy character will also have its own constructor, append and get functions for their xp and gold values. Different enemies will derive from the enemy class. This will allow for easier creation of enemies. Each enemy will come with thier unique rank, name, skills, and constructor. In additon each subenemy will work like the subcharacter classes excpet will not be controlled by the user during combat. 
 >
@@ -146,7 +149,8 @@ This is shown when the you die in battle and you lose the game
  
  ## Screenshots
  > Screenshots of the input/output after running the game:
->![image](https://github.com/cs100/final-project-ptehr002-jshiu004-apaya014-zwang577/assets/165939569/eee5a1e4-37ff-4152-82e6-818e6ef71924)
+>!<img width="1928" height="262" alt="img13" src="https://github.com/user-attachments/assets/72335ab0-2a5e-438e-b950-fb005fa71725" />
+
 > 
 > ![image](https://github.com/cs100/final-project-ptehr002-jshiu004-apaya014-zwang577/assets/165939569/1c6dfb41-c1e4-47a8-a4a7-b3e7cbb9b9e8)> 
 > ![image](https://github.com/cs100/final-project-ptehr002-jshiu004-apaya014-zwang577/assets/165939569/38babbff-88c0-4e5c-8a87-1ef9d7333c43)
